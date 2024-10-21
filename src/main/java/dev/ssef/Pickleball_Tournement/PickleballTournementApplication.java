@@ -1,0 +1,13 @@
+package dev.ssef.Pickleball_Tournement;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class PickleballTournementApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(PickleballTournementApplication.class, args);
+	}
+
+}
